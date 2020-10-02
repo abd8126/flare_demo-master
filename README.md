@@ -1,7 +1,7 @@
 # Flare animation with Flutter || 
 
-Click on the image below for YouTube tutorial.
-<div align="center">
+
+<div align="right">
   <img src="https://raw.githubusercontent.com/abd8126/flare_demo-master/master/Screenshot_1601616516.png">
 </div>
 <br>
